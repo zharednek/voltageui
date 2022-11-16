@@ -445,4 +445,4 @@ function library:CreateWindow(name)
     return _library
 end
 
-return Library
+return library
